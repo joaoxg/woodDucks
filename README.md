@@ -7,6 +7,11 @@ In this project we perform statistical analysis on the nest of wood ducks where 
 Collected data stored in woodDucks\data\raw.
 Data initally collected in individual files stored in woodDucks\data\raw\individualdata
 woodDucks\data\raw\woodduck_nest_2021_data.csv gathers in a single dataframe all the individual data following the tidy way. 
+Mass column data standardized to grams (g).
+Uknown data entries converted to NA
+Cases where data entries are almost certain were accepted as true (e.g. Probably 14)
+
+## Analysis
 
 
 ## Contributing
